@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: DATE2017_main.aux
+The style file: unsrt.bst
+Database file #1: DATE17_bibl.bib
+Warning--entry type for "ref:caas" isn't style-file defined
+--line 157 of file DATE17_bibl.bib
+You've used 12 entries,
+            1791 wiz_defined-function locations,
+            514 strings with 5662 characters,
+and the built_in function-call counts, 2877 in all, are:
+= -- 254
+> -- 143
+< -- 3
++ -- 53
+- -- 41
+* -- 183
+:= -- 444
+add.period$ -- 38
+call.type$ -- 12
+change.case$ -- 12
+chr.to.int$ -- 0
+cite$ -- 12
+duplicate$ -- 127
+empty$ -- 279
+format.name$ -- 41
+if$ -- 656
+int.to.chr$ -- 0
+int.to.str$ -- 12
+missing$ -- 9
+newline$ -- 62
+num.names$ -- 10
+pop$ -- 49
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 67
+stack$ -- 0
+substring$ -- 157
+swap$ -- 40
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 25
+width$ -- 14
+write$ -- 130
+(There was 1 warning)

@@ -1,0 +1,72 @@
+\begin{thebibliography}{10}
+
+\bibitem{ref:MCC_aug}
+S.~Abolfazli, Z.~Sanaei, E.~Ahmed, A.~Gani, and R.~Buyya.
+\newblock Cloud-based augmentation for mobile devices: motivation, taxonomies,
+  and open challenges.
+\newblock {\em IEEE Communications Surveys \& Tutorials}, 16(1):337--368, 2014.
+
+\bibitem{ref:cloudlet}
+M.~Satyanarayanan, P.~Bahl, R.~Caceres, and N.~Davies.
+\newblock The case for vm-based cloudlets in mobile computing.
+\newblock {\em IEEE pervasive Computing}, 8(4), 2009.
+
+\bibitem{ref:MCC_survey1}
+K.~Kumar, J.~Liu, Y.~Lu, and B.~Bhargava.
+\newblock A survey of computation offloading for mobile systems.
+\newblock {\em Mobile Networks and Applications}, 18(1):129--140, 2013.
+
+\bibitem{ref:MCC_survey2}
+K.~Akherfi, M.~Gerndt, and H.~Harroud.
+\newblock Mobile cloud computing for computation offloading: Issues and
+  challenges.
+\newblock {\em Applied Computing and Informatics}, 2016.
+
+\bibitem{ref:ns3_lte}
+{NS3-LTE Library}.
+\newblock \url{https://www.nsnam.org/docs/models/html/lte.html}, 2016.
+\newblock [Online; accessed Aug. 18, 2017].
+
+\bibitem{ref:matlab_rst}
+Path following controller.
+\newblock
+  \url{https://www.mathworks.com/help/robotics/examples/path-following-for-a-differential-drive-robot.html},
+  2015.
+\newblock [Online; accessed Aug. 18, 2017].
+
+\bibitem{ref:cloud_mit}
+S.~Kumar, S.~Gollakota, and D.~Katabi.
+\newblock A cloud-assisted design for autonomous driving.
+\newblock In {\em Proceedings of the first edition of the MCC workshop on
+  Mobile cloud computing}, pages 41--46. ACM, 2012.
+
+\bibitem{ref:motionplan_survey}
+B.~Paden, M.~{\v{C}}{\'a}p, S.~Z. Yong, D.~Yershov, and E.~Frazzoli.
+\newblock A survey of motion planning and control techniques for self-driving
+  urban vehicles.
+\newblock {\em IEEE Transactions on Intelligent Vehicles}, 1(1):33--55, 2016.
+
+\bibitem{ref:carlog}
+Y.~Jiang, H.~Qiu, M.~McCartney, W.~Halfond, F.~Bai, D.~Grimm, and R.~Govindan.
+\newblock {CARLOG}: A platform for flexible and efficient automotive sensing.
+\newblock In {\em Proceedings of the 12th ACM Conference on Embedded Network
+  Sensor Systems}, pages 221--235. ACM, 2014.
+
+\bibitem{ref:carloc}
+Y.~Jiang, H.~Qiu, M.~McCartney, G.~Sukhatme, M.~Gruteser, F.~Bai, D.~Grimm, and
+  R.~Govindan.
+\newblock {CARLOC}: Precise positioning of automobiles.
+\newblock In {\em Proceedings of the 13th ACM Conference on Embedded Networked
+  Sensor Systems}, pages 253--265. ACM, 2015.
+
+\bibitem{ref:caas}
+E.~Hasan.
+\newblock Control as a service ({CaaS}) : Cloud-based software architecture for
+  automotive control applications, 2015.
+
+\bibitem{ref:car_cloud}
+R.~Mangharam.
+\newblock The car and the cloud: Automotive architectures for 2020.
+\newblock {\em The Bridge}, 2012.
+
+\end{thebibliography}
